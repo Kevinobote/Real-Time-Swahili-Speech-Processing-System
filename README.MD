@@ -21,11 +21,17 @@ To improve performance, **expanding Swahili training datasets** and **fine-tunin
 ## **🔹 Features**
 
 ✅ **Real-Time Speech-to-Text** – Converts Swahili audio into text using **OpenAI’s Whisper model**.
+
 ✅ **Sentiment Analysis** – Detects emotions in spoken language with **DistilBERT**.
+
 ✅ **Text Summarization** – Generates concise summaries using **T5 Transformer models**.
+
 ✅ **Interactive Dashboard** – Uses **Streamlit** for **real-time visualization and analysis**.
+
 ✅ **Audio Preprocessing** – Includes **noise reduction, silence trimming, and feature extraction**.
+
 ✅ **Performance Metrics** – Evaluates models using **WER, accuracy, F1-score, and ROUGE scores**.
+
 ✅ **User Feedback Loop** – Allows users to rate transcriptions and summaries to improve accuracy.
 
 ---
